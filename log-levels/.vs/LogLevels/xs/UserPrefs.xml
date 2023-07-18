@@ -1,0 +1,33 @@
+﻿<Properties StartupConfiguration="{65661084-DDD4-4B71-AD96-091E1F0FABFE}|Default">
+  <MonoDevelop.Ide.ItemProperties.LogLevels PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="HELP.md">
+    <Files>
+      <File FileName="LogLevels.cs" Line="22" Column="26" />
+      <File FileName="HINTS.md" Line="5" Column="58" />
+      <File FileName="HELP.md" Line="17" Column="68" />
+      <File FileName="README.md" Line="70" Column="35" NotebookId="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="LogLevels" expanded="True">
+            <Node name="LogLevels" expanded="True">
+              <Node name="HELP.md" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="LogLevels" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

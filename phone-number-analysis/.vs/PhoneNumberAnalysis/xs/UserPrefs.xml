@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{331457A6-F2FF-45E4-A91F-945FE7F4A962}|Default">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.PhoneNumberAnalysis PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="HELP.md">
+    <Files>
+      <File FileName="PhoneNumberAnalysis.cs" Line="12" Column="53" />
+      <File FileName="README.md" Line="1" Column="1" />
+      <File FileName="HELP.md" Line="17" Column="78" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="PhoneNumberAnalysis" expanded="True">
+            <Node name="PhoneNumberAnalysis" expanded="True">
+              <Node name="HELP.md" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="PhoneNumberAnalysis" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+</Properties>
